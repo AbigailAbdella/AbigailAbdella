@@ -1,4 +1,7 @@
 ## Hi there 👋
+I just Finished My Robocode!!! 
+Don't ask me anything. 
+Fun Fact, a roach can live for like one week without its head! 
 
 <!--
 **AbigailAbdella/AbigailAbdella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
